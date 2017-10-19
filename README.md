@@ -1,3 +1,3 @@
 # React 
 
-Exporation Of React with an Example from Pro React APress book.
+Exploration of React with an Example from Pro React Apress book.
