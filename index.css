@@ -76,7 +76,7 @@ ul{
     content: '►';
 }
 
-.card__title--is--open:before{
+.card__title--is-open:before{
     content: '▼'
 }
 
