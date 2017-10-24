@@ -4,7 +4,7 @@ import KanbanBoard from './KanbanBoard';
 let cardsList = [
     {
         id : 1,
-        title: "Read the Book",
+        title: "This is a new card with a very very lobg title, thus having more than 80 characters my freinds.",
         description :"I should read the **whole** book",
         color: '#BD8D31',
         status: "in-progress",
